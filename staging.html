@@ -1,0 +1,21 @@
+<title>Test</title>
+<script src="/config_staging.js"></script>
+<script>
+var baseHref = '/static/v-' + currentVersion;
+/*
+var base = document.createElement('base');
+        base.href = 'http://www.w3.org/';
+        document.getElementsByTagName('head')[0].appendChild(base);
+*/
+var xhr = new XMLHttpRequest();
+xhr.onreadystatechange = function() {
+    if (xhr.readyState === 4){
+        var text = xhr.responseText
+        text = text.replace(/(src|href)="\//g, '$1="' + baseHref + '/')
+        document.write('<base href="https://' + document.location.host + baseHref + '/" />');
+      document.write(text)
+    }
+};
+xhr.open('GET', baseHref + '/index.html');
+xhr.send();
+</script>
