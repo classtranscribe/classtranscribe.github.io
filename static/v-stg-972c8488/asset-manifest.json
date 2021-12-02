@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e81c7b5f.chunk.css",
+    "main.js": "/static/js/main.e5db2b05.chunk.js",
+    "main.js.map": "/static/js/main.e5db2b05.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.d653cc00.js",
+    "runtime~main.js.map": "/static/js/runtime~main.d653cc00.js.map",
+    "static/js/2.79f77c33.chunk.js": "/static/js/2.79f77c33.chunk.js",
+    "static/js/2.79f77c33.chunk.js.map": "/static/js/2.79f77c33.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.69d9b8e7550321d08a37a8cae6b6fea5.js": "/precache-manifest.69d9b8e7550321d08a37a8cae6b6fea5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e81c7b5f.chunk.css.map": "/static/css/main.e81c7b5f.chunk.css.map",
+    "static/media/UIS-Logo.png": "/static/media/UIS-Logo.b695f8dd.png",
+    "static/media/box-logo.svg": "/static/media/box-logo.afc9d426.svg",
+    "static/media/semantic-ui.min.css": "/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/brand-text-dark.png": "/static/media/brand-text-dark.c59551ec.png",
+    "static/media/brand-text.png": "/static/media/brand-text.320ee44d.png",
+    "static/media/logo-outline.png": "/static/media/logo-outline.1bd9762e.png",
+    "static/media/logo-outline.svg": "/static/media/logo-outline.5d0ad677.svg",
+    "static/media/logo.png": "/static/media/logo.fbda1ede.png"
+  }
+}
