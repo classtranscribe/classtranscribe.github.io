@@ -1,1 +1,1 @@
-var currentVersion = '95762c60'
+var currentVersion = '8bc9df03'
